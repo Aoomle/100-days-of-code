@@ -23,3 +23,12 @@ Learned basics of app architecture
 **Thoughts:**  I’m feeling comfortable using swiftUI
 
 **Link to work:** [Bullseye App v0.1.1](https://github.com/Aoomle/Day2SwiiftUIData)
+
+### Day 3: 30 January, 2021
+
+**Today's Progress**: Reviewed day 2 code.
+ Getting started with Xcode Docs,bunit testing and Test Driven development 
+
+**Thoughts:**  I am getting hang to these new concepts. I never thought I would use Unit testing in my life. But raywenderlich change everything. I am so happy I’m using unit testing..
+
+**Link to work:** [Bullseye App v0.1.2](https://github.com/Aoomle/Day3CodingInSwift) 
