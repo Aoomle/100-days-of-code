@@ -32,3 +32,11 @@ Learned basics of app architecture
 **Thoughts:**  I am getting hang to these new concepts. I never thought I would use Unit testing in my life. But raywenderlich change everything. I am so happy I’m using unit testing..
 
 **Link to work:** [Bullseye App v0.1.2](https://github.com/Aoomle/Day3CodingInSwift) 
+
+### Day 4: 31 January, 2021
+
+**Today's Progress**: Reviewed day 3 code.  I learned more view modifiers, color and gradient, dark mode extract view, shapes and Sfsymbols 
+
+**Thoughts:**  I love what I do
+
+**Link to work:** [Bullseye App v0.1.3](https://github.com/Aoomle/Day4SwiftUIViewsandViewModifiers) 
