@@ -41,10 +41,18 @@ Learned basics of app architecture
 
 **Link to work:** [Bullseye App v0.1.3](https://github.com/Aoomle/Day4SwiftUIViewsandViewModifiers) 
 
-### Day 5: 1 February , 2021				  *
+### Day 5: 1 February , 2021		
 
 **Today's Progress**: Continuous of day 4. I was able to apply all the new techniques I learned to bring out this beautiful design. 
 
 **Thoughts:** Awesome
 
 **Link to work:** [Bullseye App v0.1.3](https://github.com/Aoomle/Day4SwiftUIViewsandViewModifiers) 
+
+### Day 6: 2 February , 2021				  *
+
+**Today's Progress**: challenge completed 2 out of 6 
+
+**Thoughts:** Awesome
+
+**Link to work:** [Bullseye App v0.1.4](https://github.com/Aoomle/Day5SwiftCodingChallenges) 
