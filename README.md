@@ -74,3 +74,12 @@ Learned basics of app architecture
 **Thoughts:** great
 
 **Link to worka** [Bullseye App v0.1.42](https://github.com/Aoomle/Day5SwiftCodingChallenges) 
+
+
+### Day 9: 5 February , 2021		
+
+**Today's Progress**: Completed all the challenges 6 of 6 
+
+**Thoughts:** great
+
+**Link to worka** [Bullseye App v0.1.43](https://github.com/Aoomle/Day5SwiftCodingChallenges) 
