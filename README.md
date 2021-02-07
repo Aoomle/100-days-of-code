@@ -83,3 +83,21 @@ Learned basics of app architecture
 **Thoughts:** great
 
 **Link to worka** [Bullseye App v0.1.43](https://github.com/Aoomle/Day5SwiftCodingChallenges) 
+
+
+### Day 10: 6 February , 2021		
+
+**Today's Progress**: Learned Custom alert part 1
+
+**Thoughts:** great
+
+**Link to worka** [Bullseye App v0.1.43](https://github.com/Aoomle/Day5SwiftCodingChallenges) 
+
+
+### Day 11: 7 February , 2021		
+
+**Today's Progress**: Learned custom alert part 2
+
+**Thoughts:** great
+
+**Link to worka** [Bullseye App v0.1.43](https://github.com/Aoomle/Day5SwiftCodingChallenges) 
