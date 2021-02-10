@@ -112,5 +112,21 @@ Learned basics of app architecture
 **Link to worka** [Bullseye App v0.1.43](https://github.com/Aoomle/Bullseye-Final-version) 
 
 
+### Day 13: 9 February , 2021		
+
+**Today's Progress**: completed leaderboard header
+
+**Thoughts:** ....
+
+**Link to worka** [Bullseye App v0.1.43](https://github.com/Aoomle/Bullseye-Final-version) 
+
+
+### Day 14: 10 February , 2021		
+
+**Today's Progress**: completed leaderboard view
+
+**Thoughts:** ....
+
+**Link to worka** [Bullseye App v0.1.43](https://github.com/Aoomle/Bullseye-Final-version) 
 
 
