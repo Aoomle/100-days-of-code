@@ -130,3 +130,31 @@ Learned basics of app architecture
 **Link to worka** [Bullseye App v0.1.43](https://github.com/Aoomle/Bullseye-Final-version) 
 
 
+### Day 15: 11 February , 2021		
+
+**Today's Progress**: learned low and high fidelity wireframes. Learned basics of  figma. part 1
+
+**Thoughts:** ....
+
+**Link to worka** [BullsEye Prototype 1.0](https://github.com/Aoomle/BullsEyePrototype) 
+
+
+### Day 16: 12 February , 2021		
+
+**Today's Progress**: learned low and high fidelity wireframes. Learned basics of  figma. part 2
+
+
+**Thoughts:** ....
+
+**Link to worka** [BullsEye Prototype 1.1](https://github.com/Aoomle/BullsEyePrototype) 
+
+
+### Day 17: 13 February , 2021		
+
+**Today's Progress**: Learned typography in figma. and followed iOS guideline 
+
+**Thoughts:** ....
+
+**Link to worka** [BullsEye Prototype 1.2](https://github.com/Aoomle/BullsEyePrototype) 
+
+
