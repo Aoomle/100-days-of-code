@@ -158,3 +158,12 @@ Learned basics of app architecture
 **Link to worka** [BullsEye Prototype 1.2](https://github.com/Aoomle/BullsEyePrototype) 
 
 
+### Day 18: 14 February , 2021		
+
+**Today's Progress**: Learned how to find color that will fit app.
+
+**Thoughts:** ....
+
+**Link to worka** [BullsEye Prototype 1.3](https://github.com/Aoomle/BullsEyePrototype) 
+
+
