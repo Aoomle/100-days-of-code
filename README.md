@@ -166,4 +166,53 @@ Learned basics of app architecture
 
 **Link to worka** [BullsEye Prototype 1.3](https://github.com/Aoomle/BullsEyePrototype) 
 
+### Day 19: 15 February , 2021		
+
+**Today's Progress**: Iterate the design and final design
+
+**Link to work** [BullsEye Prototype 1.3](https://t.co/ccl7gYXN7K)
+
+
+### Day 20: 16 February , 2021		
+
+**Today's Progress**: Iterate the design and final design part 1
+
+**Link to work** [BullsEye Prototype 1.4](https://t.co/ccl7gYXN7K)
+
+
+### Day 20: 17 February , 2021	
+
+**Today's Progress**: Iterate the design and final design part 2
+
+**Link to work** [BullsEye Prototype 1.4](https://t.co/ccl7gYXN7K)
+
+
+### Day 21: 18 February , 2021	
+
+**Today's Progress**: learned Figma and Sketch
+
+
+### Day 22: 19 February , 2021	
+
+**Today's Progress**: Review core concepts such as a playground, comments, booleans, and comparison Operators 
+
+
+### Day 23: 20 February , 2021	
+
+**Today's Progress**: completed core concepts challenges
+
+**Link to work:**  https://github.com/Aoomle/begin
+
+
+### Day 24: 21 February , 2021	
+
+**Today's Progress**: Review collections
+
+
+### Day 25: 22 February , 2021	
+
+**Today's Progress**: Completed collections challenges Day 25: Review collections and did all the challenges
+
+**Link to work:**  https://github.com/Aoomle/Beginning-Collections-
+
 
