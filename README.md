@@ -211,6 +211,13 @@ Learned basics of app architecture
 
 ### Day 25: 22 February , 2021	
 
-**Today's Progress**: Completed collections challenges Day 25: Review collections and did all the challenges
+**Today's Progress**: Completed collections challenges 
 
 **Link to work:**  https://github.com/Aoomle/Beginning-Collections-
+
+
+### Day 26: 23 February , 2021	
+
+**Today's Progress**: Rewiew control flow and completed all the challenges 
+
+**Link to work:** https://github.com/Aoomle/Control-Flow
