@@ -29,7 +29,7 @@ Learned basics of app architecture
 **Today's Progress**: Reviewed day 2 code.
  Getting started with Xcode Docs,bunit testing and Test Driven development 
 
-**Thoughts:**  I am getting hang to these new concepts. I never thought I would use Unit testing in my life. But raywenderlich change everything. I am so happy I’m using unit testing..
+**Thoughts:**  I am getting the hang of these new concepts. I never thought I would use Unit testing in my life. But raywenderlich change everything. I am so happy I’m using unit testing..
 
 **Link to work:** [Bullseye App v0.1.2](https://github.com/Aoomle/Day3CodingInSwift) 
 
@@ -73,7 +73,7 @@ Learned basics of app architecture
 
 **Thoughts:** great
 
-**Link to worka** [Bullseye App v0.1.42](https://github.com/Aoomle/Day5SwiftCodingChallenges) 
+**Link to work** [Bullseye App v0.1.42](https://github.com/Aoomle/Day5SwiftCodingChallenges) 
 
 
 ### Day 9: 5 February , 2021		
@@ -82,7 +82,7 @@ Learned basics of app architecture
 
 **Thoughts:** great
 
-**Link to worka** [Bullseye App v0.1.43](https://github.com/Aoomle/Day5SwiftCodingChallenges) 
+**Link to work** [Bullseye App v0.1.43](https://github.com/Aoomle/Day5SwiftCodingChallenges) 
 
 
 ### Day 10: 6 February , 2021		
@@ -91,7 +91,7 @@ Learned basics of app architecture
 
 **Thoughts:** great
 
-**Link to worka** [Bullseye App v0.1.43](https://github.com/Aoomle/Day5SwiftCodingChallenges) 
+**Link to work** [Bullseye App v0.1.43](https://github.com/Aoomle/Day5SwiftCodingChallenges) 
 
 
 ### Day 11: 7 February , 2021		
@@ -100,7 +100,7 @@ Learned basics of app architecture
 
 **Thoughts:** great
 
-**Link to worka** [Bullseye App v0.1.43](https://github.com/Aoomle/Day5SwiftCodingChallenges) 
+**Link to work** [Bullseye App v0.1.43](https://github.com/Aoomle/Day5SwiftCodingChallenges) 
 
 
 ### Day 12: 8 February , 2021		
@@ -109,7 +109,7 @@ Learned basics of app architecture
 
 **Thoughts:** ....
 
-**Link to worka** [Bullseye App v0.1.43](https://github.com/Aoomle/Bullseye-Final-version) 
+**Link to work** [Bullseye App v0.1.43](https://github.com/Aoomle/Bullseye-Final-version) 
 
 
 ### Day 13: 9 February , 2021		
@@ -118,7 +118,7 @@ Learned basics of app architecture
 
 **Thoughts:** ....
 
-**Link to worka** [Bullseye App v0.1.43](https://github.com/Aoomle/Bullseye-Final-version) 
+**Link to work** [Bullseye App v0.1.43](https://github.com/Aoomle/Bullseye-Final-version) 
 
 
 ### Day 14: 10 February , 2021		
@@ -127,7 +127,7 @@ Learned basics of app architecture
 
 **Thoughts:** ....
 
-**Link to worka** [Bullseye App v0.1.43](https://github.com/Aoomle/Bullseye-Final-version) 
+**Link to work** [Bullseye App v0.1.43](https://github.com/Aoomle/Bullseye-Final-version) 
 
 
 ### Day 15: 11 February , 2021		
@@ -136,17 +136,16 @@ Learned basics of app architecture
 
 **Thoughts:** ....
 
-**Link to worka** [BullsEye Prototype 1.0](https://github.com/Aoomle/BullsEyePrototype) 
+**Link to work** [BullsEye Prototype 1.0](https://github.com/Aoomle/BullsEyePrototype) 
 
 
 ### Day 16: 12 February , 2021		
 
 **Today's Progress**: learned low and high fidelity wireframes. Learned basics of  figma. part 2
 
-
 **Thoughts:** ....
 
-**Link to worka** [BullsEye Prototype 1.1](https://github.com/Aoomle/BullsEyePrototype) 
+**Link to work** [BullsEye Prototype 1.1](https://github.com/Aoomle/BullsEyePrototype) 
 
 
 ### Day 17: 13 February , 2021		
@@ -155,7 +154,7 @@ Learned basics of app architecture
 
 **Thoughts:** ....
 
-**Link to worka** [BullsEye Prototype 1.2](https://github.com/Aoomle/BullsEyePrototype) 
+**Link to work** [BullsEye Prototype 1.2](https://github.com/Aoomle/BullsEyePrototype) 
 
 
 ### Day 18: 14 February , 2021		
@@ -164,7 +163,8 @@ Learned basics of app architecture
 
 **Thoughts:** ....
 
-**Link to worka** [BullsEye Prototype 1.3](https://github.com/Aoomle/BullsEyePrototype) 
+**Link to work** [BullsEye Prototype 1.3](https://github.com/Aoomle/BullsEyePrototype) 
+
 
 ### Day 19: 15 February , 2021		
 
@@ -214,5 +214,3 @@ Learned basics of app architecture
 **Today's Progress**: Completed collections challenges Day 25: Review collections and did all the challenges
 
 **Link to work:**  https://github.com/Aoomle/Beginning-Collections-
-
-
