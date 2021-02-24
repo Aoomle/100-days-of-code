@@ -221,3 +221,10 @@ Learned basics of app architecture
 **Today's Progress**: Rewiew control flow and completed all the challenges 
 
 **Link to work:** https://github.com/Aoomle/Control-Flow
+
+
+### Day 27: 24 February , 2021	
+
+**Today's Progress**: Rewiew more collections and completed all the challenges 
+
+**Link to work:** https://github.com/Aoomle/More-Collections
