@@ -228,3 +228,73 @@ Learned basics of app architecture
 **Today's Progress**: Rewiew more collections and completed all the challenges 
 
 **Link to work:** https://github.com/Aoomle/More-Collections
+
+
+### Day 28: 25 February , 2021	
+
+**Today's Progress**: Rewiew functions, named types and completed all the challenges 
+
+**Link to work:** https://github.com/Aoomle/Functions-and-Named-Types
+
+
+### Day 29: 26 February , 2021	
+
+**Today's Progress**: Reviewed all the basics of swift (Core concepts, Beginning collections and Control Flow)
+
+**Link to work:** https://t.co/YNgc6Qsf6f
+
+
+### Day 30: 27 February , 2021	
+
+**Today's Progress**: Reviewed all the basics of swift (More collections, functions and named types)
+
+**Link to work:** https://github.com/Aoomle/Functions-and-Named-Types
+
+
+### Day 31: 28 February , 2021	
+
+**Today's Progress**: Programming in swift functions and types(Functions and Closures)
+
+**Link to work:** https://github.com/Aoomle/P02-Closures & https://github.com/Aoomle/Functions-
+
+
+### Day 32: 1 March , 2021	
+
+**Today's Progress**: Programming in swift functions and types(Enumeration).
+
+**Link to work:** https://github.com/Aoomle/P03-Enumerations
+
+
+### Day 33: 2 March , 2021	
+
+**Today's Progress**:  programming in swift functions and types(Properties and methods).
+
+**Link to work:** 
+
+
+### Day 34: 3 March , 2021	
+
+**Today's Progress**: Programming in swift functions and types(Protocols and inheritance).
+
+**Link to work:** https://github.com/Aoomle/P05-Protocols-Inheritance
+
+
+### Day 35: 4 March , 2021	
+
+**Today's Progress**: ReadMe app( List view fundamental)
+
+**Link to work:** https://github.com/Aoomle/ReadMe-Reuse
+
+
+### Day 36: 5 March , 2021	
+
+**Today's Progress**: ReadMe app(image blinding)
+
+**Link to work:** https://github.com/Aoomle/ReadMe-ImageBlinding
+
+
+### Day 37: 6 March , 2021	
+
+**Today's Progress**: ReadMe app(Data Flow and Managing row)
+
+**Link to work:** https://github.com/Aoomle/ReadMe-F27-challenge-sort-menu-FinalPush
