@@ -298,3 +298,10 @@ Learned basics of app architecture
 **Today's Progress**: ReadMe app(Data Flow and Managing row)
 
 **Link to work:** https://github.com/Aoomle/ReadMe-F27-challenge-sort-menu-FinalPush
+
+
+### Day 38: 7 March , 2021	
+
+**Today's Progress**: I learned UIKit Fundamentals(Controls and add second screen)
+
+**Link to work:** https://github.com/Aoomle/StoryPrompt-UIKitControls , https://github.com/Aoomle/StoryPrompt-Second-Screen-Demo1 and https://github.com/Aoomle/StoryPrompt-Second-Screen-Demo2
