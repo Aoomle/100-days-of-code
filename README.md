@@ -305,3 +305,283 @@ Learned basics of app architecture
 **Today's Progress**: I learned UIKit Fundamentals(Controls and add second screen)
 
 **Link to work:** https://github.com/Aoomle/StoryPrompt-UIKitControls , https://github.com/Aoomle/StoryPrompt-Second-Screen-Demo1 and https://github.com/Aoomle/StoryPrompt-Second-Screen-Demo2
+
+### Day 39: 8 March , 2021	
+
+**Today's Progress**:  I learned UIKit Layout (Stack Views)
+
+**Link to work:** bit.ly/2Oe91bV
+
+
+### Day 40: 9 March , 2021	
+
+**Today's Progress**:  I learned UIKit Layout (Constraints).
+
+**Link to work:** bit.ly/3vb2sYc
+
+
+### Day 41: 10 March , 2021	
+
+**Today's Progress**: Day 41: I learned table view fundamentals.
+
+**Link to work:** 
+
+
+### Day 42: 11 March , 2021	
+
+**Today's Progress**:I learned how to customize table views and managing rows
+
+**Link to work:** 
+
+
+### Day 43: 12 March , 2021	
+
+**Today's Progress**: I learned how to use collection views(building simple layout, going old school and build the Library)
+
+**Link to work:** 
+
+
+### Day 44: 13 March , 2021	
+
+**Today's Progress**: I learned how to use UIKit animating constraints and view properties part 1
+
+**Link to work:** 
+
+
+### Day 45: 14 March , 2021	
+
+**Today's Progress**: I learned how to use UIKit animating constraints and view properties part 2
+
+**Link to work:** 
+
+
+### Day 46: 15 March , 2021	
+
+**Today's Progress**: Day 46: I learned how to use UIKit View controller transitions 
+
+Final course on Animation, tomorrow I will be learning integrating UIKit and SwiftUI 
+
+**Link to work:** 
+
+
+### Day 47: 16 March , 2021	
+
+**Today's Progress**: I learned integrating UIKit and SwiftUI 
+
+**Link to work:** 
+
+
+### Day 48: 17 March , 2021	
+
+**Today's Progress**: I reviewed integrating UIKit and SwiftUI part 1 
+
+**Link to work:** 
+
+
+### Day 49: 18 March , 2021	
+
+**Today's Progress**: I reviewed integrating UIKit and SwiftUI part 2
+
+**Link to work:** 
+
+
+### Day 50: 19 March , 2021	
+
+**Today's Progress**: What I have learned Data and data types, Foundation Data
+URLs, saving, and loading files.
+
+**Link to work:** 
+
+
+### Day 51: 20 March , 2021	
+
+**Today's Progress**:  What I have learned today:
+JSON Decoding
+Saving on device 
+JSON Encoding
+Codable Hierarchies
+**Link to work:**
+
+
+### Day 52: 21 March , 2021	
+
+**Today's Progress**:I have learned property lists today:
+Property lists anatomy, saving in property lists, reading in property lists and comparing JSON and Property Lists. 
+**Link to work:**
+
+
+### Day 53: 22 March , 2021	
+
+**Today's Progress**: I have reviewed “Saving Data in iOS” course.
+
+**Link to work:**
+
+
+### Day 54: 23 March , 2021	
+
+**Today's Progress**: I have learned “Beginning Core Data”
+
+The core data stack, saving and fetching reminders part 1
+
+**Link to work:**
+
+
+### Day 55: 24 March , 2021	
+
+**Today's Progress**: I have learned “Beginning Core Data”
+
+The core data stack, saving and fetching reminders part 2
+
+**Link to work:**
+
+
+### Day 56: 25 March , 2021	
+
+**Today's Progress**: : I learned Core Data and UIKit
+
+**Link to work:**
+
+
+### Day 57: 26 March , 2021	
+
+**Today's Progress**:: I started learning concurrency and data tasks part 1
+
+**Link to work:**
+
+
+### Day 58: 27 March , 2021	
+
+**Today's Progress**: I started learning concurrency and data tasks part 2
+
+**Link to work:**
+
+
+### Day 59: 28 March , 2021	
+
+**Today's Progress**: I have paused my learning path with rwenderlich. I’m working on my app so throughout this week is all going to be about the app. I hope by this time I’ll be through next week. 
+
+**Link to work:**
+
+
+### Day 60: 29 March , 2021	
+
+**Today's Progress**:  I have worked on the Settings Controller I was able to use Tableview, SafariServices and MessageUI part 1
+
+**Link to work:**
+
+
+### Day 61: 30 March , 2021	
+
+**Today's Progress**:  I have worked on the Settings Controller I was able to use Tableview, SafariServices and MessageUI part 2
+
+**Link to work:**
+
+
+### Day 62: 31 March , 2021	
+
+**Today's Progress**: I have worked on the few controllers, I hope to finish all the controllers tomorrow part 1
+
+**Link to work:**
+
+
+### Day 63: 1 April , 2021	
+
+**Today's Progress**: I have worked on the few controllers, I hope to finish all the controllers tomorrow part 2
+
+**Link to work:**
+
+
+### Day 64: 2 April , 2021	
+
+**Today's Progress**: Debugging the app. Everything will be done by Tuesday part 1
+
+**Link to work:**
+
+### Day 65: 3 April , 2021	
+
+**Today's Progress**: Debugging the app. Everything will be done by Tuesday  part 2
+
+**Link to work:**
+
+
+### Day 66: 4 March , 2021	
+
+**Today's Progress**: App done. I am going to resume the learning path. I will continue with the networking course part 1
+
+**Link to work:**
+
+
+### Day 67: 5 April , 2021	
+
+**Today's Progress**: App done. I am going to resume the learning path. I will continue with the networking course part 2
+
+**Link to work:**
+
+
+### Day 68: 6 April , 2021	
+
+**Today's Progress**: I Reviewed Core Data and UIKit part 1
+
+**Link to work:**
+
+
+### Day 69: 7 April , 2021	
+
+**Today's Progress**: I Reviewed Core Data and UIKit part 2
+**Link to work:**
+
+
+### Day 70: 8 April , 2021	
+
+**Today's Progress**: learning networking with URLSession part 1
+
+**Link to work:**
+
+
+### Day 71: 9 April , 2021	
+
+**Today's Progress**: learning networking with URLSession part 2
+
+**Link to work:**
+
+
+### Day 72: 10 April , 2021	
+
+**Today's Progress**: (Reviewed)learning networking with URLSession Concurrency and DataTasks 1
+
+**Link to work:**
+
+
+### Day 73: 11 April , 2021	
+
+**Today's Progress**: (Reviewed)learning networking with URLSession Concurrency and DataTasks part 2
+
+**Link to work:**
+
+
+### Day 74: 12 April , 2021	
+
+**Today's Progress**: (Reviewed)learning networking with URLSession Downloading and Uploading part 1
+
+**Link to work:**
+
+
+### Day 75: 13 April , 2021	
+
+**Today's Progress**: (Reviewed)learning networking with URLSession Downloading and Uploading part 2
+
+**Link to work:**
+
+
+### Day 76: 14 April , 2021	
+
+**Today's Progress**: (Reviewed)learning networking with URLSession Downloading and Uploading part 3
+
+**Link to work:**
+
+
+### Day 77: 15 April , 2021	
+
+**Today's Progress**: (Reviewed)learning networking with URLSession Downloading and Uploading part 4
+
+**Link to work:**
