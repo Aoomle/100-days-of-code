@@ -585,3 +585,52 @@ The core data stack, saving and fetching reminders part 2
 **Today's Progress**: (Reviewed)learning networking with URLSession Downloading and Uploading part 4
 
 **Link to work:**
+
+
+### Day 78: 16 April , 2021	
+
+**Today's Progress**: (Reviewed)learning networking with URLSession Background Downloading and WebSockets 1
+
+**Link to work:**
+
+
+### Day 79: 17 April , 2021	
+
+**Today's Progress**: (Reviewed)learning networking with URLSession Background Downloading and WebSockets 2
+
+**Link to work:**
+
+
+### Day 80: 18 April , 2021	
+
+**Today's Progress**: (Reviewed)learning networking with URLSession and Combine 1
+
+**Link to work:**
+
+
+### Day 81: 19 April , 2021	
+
+**Today's Progress**: (Reviewed)learning networking with URLSession and Combine 2
+
+**Link to work:**
+
+
+### Day 82: 20 April , 2021	
+
+**Today's Progress**: (Reviewed)learning networking with URLSession and Combine 3
+
+**Link to work:**
+
+
+### Day 83: 21 April , 2021	
+
+**Today's Progress**: (Reviewed)learning networking with URLSession Authentication, ATS and Cookies 1
+
+**Link to work:**
+
+
+### Day 84: 22 April , 2021	
+
+**Today's Progress**: (Reviewed)learning networking with URLSession Authentication, ATS and Cookies 2
+
+**Link to work:**
