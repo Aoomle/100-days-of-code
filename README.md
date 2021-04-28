@@ -634,3 +634,47 @@ The core data stack, saving and fetching reminders part 2
 **Today's Progress**: (Reviewed)learning networking with URLSession Authentication, ATS and Cookies 2
 
 **Link to work:**
+
+
+### Day 85: 23 April , 2021	
+
+**Today's Progress**: learning iOS Concurrency with GCD and Operations: Getting Started
+
+**Link to work:**
+
+
+### Day 86: 24 April , 2021	
+
+**Today's Progress**: learning iOS Concurrency with GCD and Operations: Grand Central Dispatch
+
+**Link to work:**
+
+
+### Day 87: 25 April , 2021	
+
+**Today's Progress**: learning iOS Concurrency with GCD and Operations: Operations I
+
+**Link to work:**
+
+
+### Day 88: 26 April , 2021	
+
+**Today's Progress**: learning iOS Concurrency with GCD and Operations: Operations II
+
+**Link to work:**
+
+
+### Day 89: 27 April , 2021	
+
+**Today's Progress**: (Reviewed)learning iOS Concurrency with GCD and Operations part 1
+
+**Link to work:**
+
+
+### Day 90: 28 April , 2021	
+
+**Today's Progress**: (Reviewed)learning iOS Concurrency with GCD and Operations part 2
+
+**Link to work:**
+
+
