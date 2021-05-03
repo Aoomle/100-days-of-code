@@ -678,3 +678,41 @@ The core data stack, saving and fetching reminders part 2
 **Link to work:**
 
 
+### Day 91: 29 April , 2021	
+
+**Today's Progress**: (Second Reviewed)learning iOS Concurrency with GCD and Operations part 2
+
+**Link to work:**
+
+
+### Day 92: 30 April , 2021	
+
+**Today's Progress**: learning iOS Debugging part 1
+
+**Link to work:**
+
+
+### Day 93: 1 May , 2021	
+
+**Today's Progress**: learning iOS Debugging part 2
+
+**Link to work:**
+
+
+### Day 94: 2 May , 2021	
+
+**Today's Progress**: learned Xcode Tips and Tricks
+
+**Link to work:**
+
+
+### Day 95: 3 May , 2021	
+
+**Today's Progress**: Reviewed Xcode Tips and Tricks
+
+**Link to work:**
+
+
+
+
+
